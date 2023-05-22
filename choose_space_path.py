@@ -24,3 +24,5 @@ elif answer == 'right':
 
 else:
     print("Not a valid option")
+
+print("Thank you for giving my space adventure game ago", name)
